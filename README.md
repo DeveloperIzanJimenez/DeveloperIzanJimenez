@@ -23,12 +23,7 @@
     Hey there! 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350" height="200"/>
-  </div>
 </div>
-
----
 
 ## 👨‍💻 About Me:
 I am **Izan**, a Full Stack Developer and currently pursuing a degree in **Artificial Intelligence**. My background includes software development, IT support, and cross-platform application development.
@@ -40,28 +35,33 @@ I am **Izan**, a Full Stack Developer and currently pursuing a degree in **Artif
 - 📬 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/izan-jimenez/?locale=es_ES) | [Twitter](https://x.com/developerizan) | [Instagram](https://www.instagram.com/dev.izan/) | [Portfolio](https://izanjimenez.alwaysdata.net)
 
 ---
-
 ## 🛠️ Languages and Tools:
-### Frontend Development:
 <div>
+
+### Frontend Development:
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-</div>
 
 ### Backend Development:
-<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-</div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/iranapporg/b4x-icon-maker/blob/master/Files/img_roundicons.png" title="Python" alt="B4X" width="40" height="40"/>&nbsp;
+
 
 ### Tools and Frameworks:
-<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
+
 </div>
+
 
 <!--
  ## 🌟 Featured Projects:
@@ -89,3 +89,8 @@ Implemented various machine learning algorithms such as linear regression, k-mea
 - **Instagram**: [IzanJ Instagram](https://www.instagram.com/dev.izan/)
 - **Portfolio**: [IzanJ Portfolio](https://izanjimenez.alwaysdata.net)
 - **GitHub**: [IzanJ GitHub](https://github.com/DeveloperIzanJimenez)
+
+---
+  <div align="center">
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200" height="100"/>
+  </div>
