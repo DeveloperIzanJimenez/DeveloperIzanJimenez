@@ -12,7 +12,7 @@
     <a href="https://www.instagram.com/dev.izan/">
       <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <a href="https://izanjimenez.alwaysdata.net">
+    <a href="https://developerizan.vercel.app">
       <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
     </a>
     <a href="https://github.com/DeveloperIzanJimenez">
@@ -32,7 +32,7 @@ I am **Izan**, a Full Stack Developer and currently pursuing a degree in **Artif
 - 🌱 **Learning and exploring** Machine Learning, Data Science, and AI applications.
 - 💡 **Passionate about** solving tech problems, reading tech articles, and applying AI to real-world projects.
 - 🎯 **Career goal**: To build innovative AI solutions and contribute to cutting-edge research.
-- 📬 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/izan-jimenez/?locale=es_ES) | [Twitter](https://x.com/developerizan) | [Instagram](https://www.instagram.com/dev.izan/) | [Portfolio](https://izanjimenez.alwaysdata.net)
+- 📬 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/izan-jimenez/?locale=es_ES) | [Twitter](https://x.com/developerizan) | [Instagram](https://www.instagram.com/dev.izan/) | [Portfolio](https://developerizan.vercel.app)
 
 ---
 ## 🛠️ Languages and Tools:
@@ -87,7 +87,7 @@ Implemented various machine learning algorithms such as linear regression, k-mea
 - **LinkedIn**: [IzanJ LinkedIn](https://www.linkedin.com/in/izan-jimenez/?locale=es_ES)
 - **Twitter**: [IzanJ Twitter](https://x.com/developerizan)
 - **Instagram**: [IzanJ Instagram](https://www.instagram.com/dev.izan/)
-- **Portfolio**: [IzanJ Portfolio](https://izanjimenez.alwaysdata.net)
+- **Portfolio**: [IzanJ Portfolio](https://developerizan.vercel.app)
 - **GitHub**: [IzanJ GitHub](https://github.com/DeveloperIzanJimenez)
 
 ---
